@@ -8,3 +8,4 @@ matplotlib
 ortools
 pydeck
 altair
+scikit-learn
